@@ -22,7 +22,7 @@ A sample script included in this repository is `server-stats.sh`, which provides
 
 2. **Make any script executable:**
    ```bash
-   chmod +x script-name.sh
+   chmod +x script-name.sh or chmod 777 script-name.sh
    ```
 
 3. **Run a script:**
