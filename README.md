@@ -42,6 +42,8 @@ A sample script included in this repository is `server-stats.sh`, which provides
 This repository is for your personal learning.  
 Feel free to add new scripts, update existing ones, and document your progress!
 
+project link: https://roadmap.sh/projects/server-stats
+
 ## License
 
 MIT License
